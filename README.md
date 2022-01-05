@@ -36,4 +36,4 @@ Jack does the 2nd and 3rd projects and sells the 3rd project to the 1st company 
 
 ### More
 
-persian students can read <code> Document </code> in ./Document.
+persian students can read Document in <code>./Document</code>.
